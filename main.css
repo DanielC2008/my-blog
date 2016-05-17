@@ -1,0 +1,12 @@
+header {
+	color: blueviolet;
+}
+
+section {
+	width: 850px;
+	padding-left: 100px;
+}
+
+.author {
+	text-align: right;
+}
